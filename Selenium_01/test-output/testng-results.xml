@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T13:11:32 IST" name="Default suite" finished-at="2022-11-21T13:11:40 IST" duration-ms="7827">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T13:11:32 IST" name="Default test" finished-at="2022-11-21T13:11:40 IST" duration-ms="7827">
+      <class name="Sel_01.Sel_001">
+        <test-method is-config="true" signature="Sign_up()[pri:0, instance:Sel_01.Sel_001@4f2b503c]" started-at="2022-11-21T13:11:32 IST" name="Sign_up" finished-at="2022-11-21T13:11:39 IST" duration-ms="6887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sign_up -->
+        <test-method signature="details()[pri:0, instance:Sel_01.Sel_001@4f2b503c]" started-at="2022-11-21T13:11:39 IST" name="details" finished-at="2022-11-21T13:11:40 IST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Sel_01.Sel_001@4f2b503c]" started-at="2022-11-21T13:11:40 IST" name="close" finished-at="2022-11-21T13:11:40 IST" duration-ms="506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Sel_01.Sel_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
